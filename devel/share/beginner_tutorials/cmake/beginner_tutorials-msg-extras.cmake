@@ -1,0 +1,2 @@
+set(beginner_tutorials_MESSAGE_FILES "/home/tejaswini/catkin_ws/src/beginner_tutorials/msg/Person.msg;/home/tejaswini/catkin_ws/src/beginner_tutorials/msg/Eli.msg;/home/tejaswini/catkin_ws/src/beginner_tutorials/msg/hello.msg")
+set(beginner_tutorials_SERVICE_FILES "/home/tejaswini/catkin_ws/src/beginner_tutorials/srv/AddTwoInts.srv;/home/tejaswini/catkin_ws/src/beginner_tutorials/srv/AreaRect.srv")

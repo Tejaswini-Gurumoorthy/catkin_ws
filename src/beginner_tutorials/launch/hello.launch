@@ -1,0 +1,5 @@
+<launch>
+    <node pkg= "beginner_tutorials" type="hello_pub.py" name="hello_pubnode" output="screen"/>
+    <node pkg= "beginner_tutorials" type="hello_sub.py" name="hello_subnode" output="screen"/>
+
+</launch>

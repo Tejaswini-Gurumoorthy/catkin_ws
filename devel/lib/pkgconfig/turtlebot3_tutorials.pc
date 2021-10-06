@@ -1,0 +1,8 @@
+prefix=/home/tejaswini/catkin_ws/devel
+
+Name: turtlebot3_tutorials
+Description: Description of turtlebot3_tutorials
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
